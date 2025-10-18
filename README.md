@@ -60,4 +60,4 @@ D：目的地 (destination)
 
 ## 檔案說明
 
-整個專案因檔案數量太大，所以全部檔案包含地圖及場景圖示上傳到 Releases 的 Hostedfile1.0
+整個專案因檔案數量太大，所以全部檔案包含地圖及場景圖示上傳到 Releases 的 all_file
